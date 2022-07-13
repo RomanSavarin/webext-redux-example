@@ -1,0 +1,20 @@
+#content-script-app-container {
+	position: fixed;
+	bottom: 32px;
+	right: 24px;
+	background-color: #282c34;
+	padding: 16px;
+	color: white;
+}
+.button {
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+	cursor: pointer;
+	background-color: #008CBA;
+  }
